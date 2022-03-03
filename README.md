@@ -23,4 +23,8 @@ python3 manage.py runserver
 ### Author
 _Boginskii Dmitrii_ ~ [ссылка проекта на GitHub](https://github.com/boginskiy/yatube_project)
 
-![](пион.png)
+[![](пион.png)](https://github.com/boginskiy/yatube_project)
+
+
+
+[Вверх^](#yatube_project)
